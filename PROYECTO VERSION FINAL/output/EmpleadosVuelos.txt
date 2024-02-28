@@ -1,0 +1,8 @@
+    1        555                     jirafa juan                        Piloto
+    2        234                  Pedro Gonzalez                      Copiloto
+    3        912                  Carlos Fontana                       Azafato
+    4        747                     Lautaro Cox                       Azafato
+    5        299                   Maria Ramirez                       Azafata
+    6        117                    Luciana Cali                       Azafata
+    7        550                Federico Cristam                     seguridad
+    8        876                  Damian Gimenez                     seguridad
